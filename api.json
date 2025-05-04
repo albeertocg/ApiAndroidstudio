@@ -1,0 +1,84 @@
+{
+  "jerseys": [
+    {
+      "id": "1",
+      "team": "Real Madrid",
+      "price": 79.99,
+      "description": "Camiseta oficial Real Madrid 2023/24",
+      "liga": "española",
+      "imageUrl": "https://raw.githubusercontent.com/albeertocg/ApiAndroidstudio/main/real_madrid.png"
+    },
+    {
+      "id": "2",
+      "team": "FC Barcelona",
+      "price": 85.00,
+      "description": "Camiseta oficial FC Barcelona 2023/24",
+      "liga": "española",
+      "imageUrl": "https://raw.githubusercontent.com/albeertocg/ApiAndroidstudio/main/barcelona.png"
+    },
+    {
+      "id": "3",
+      "team": "Real Betis",
+      "price": 75.50,
+      "description": "Camiseta oficial Real Betis 2023/24",
+      "liga": "española",
+      "imageUrl": "https://raw.githubusercontent.com/albeertocg/ApiAndroidstudio/main/real_betis.png"
+    },
+    {
+      "id": "4",
+      "team": "Atlético de Madrid",
+      "price": 80.00,
+      "description": "Camiseta oficial Atlético de Madrid 2023/24",
+      "liga": "española",
+      "imageUrl": "https://raw.githubusercontent.com/albeertocg/ApiAndroidstudio/main/atletico_de_madrid.png"
+    },
+    {
+      "id": "5",
+      "team": "Villarreal CF",
+      "price": 70.00,
+      "description": "Camiseta oficial Villarreal CF 2023/24",
+      "liga": "española",
+      "imageUrl": "https://raw.githubusercontent.com/albeertocg/ApiAndroidstudio/main/villarreal.png"
+    },
+    {
+      "id": "6",
+      "team": "Manchester United",
+      "price": 90.00,
+      "description": "Camiseta oficial Manchester United 2023/24",
+      "liga": "inglesa",
+      "imageUrl": "https://raw.githubusercontent.com/albeertocg/ApiAndroidstudio/main/manchester_united.png"
+    },
+    {
+      "id": "7",
+      "team": "Manchester City",
+      "price": 92.00,
+      "description": "Camiseta oficial Manchester City 2023/24",
+      "liga": "inglesa",
+      "imageUrl": "https://raw.githubusercontent.com/albeertocg/ApiAndroidstudio/main/manchester_city.png"
+    },
+    {
+      "id": "8",
+      "team": "Chelsea FC",
+      "price": 88.00,
+      "description": "Camiseta oficial Chelsea FC 2023/24",
+      "liga": "inglesa",
+      "imageUrl": "https://raw.githubusercontent.com/albeertocg/ApiAndroidstudio/main/chelsea.png"
+    },
+    {
+      "id": "9",
+      "team": "Liverpool FC",
+      "price": 95.00,
+      "description": "Camiseta oficial Liverpool FC 2023/24",
+      "liga": "inglesa",
+      "imageUrl": "https://raw.githubusercontent.com/albeertocg/ApiAndroidstudio/main/liverpool.png"
+    },
+    {
+      "id": "10",
+      "team": "Aston Villa",
+      "price": 78.00,
+      "description": "Camiseta oficial Aston Villa 2023/24",
+      "liga": "inglesa",
+      "imageUrl": "https://raw.githubusercontent.com/albeertocg/ApiAndroidstudio/main/aston_villa.png"
+    }
+  ]
+}
